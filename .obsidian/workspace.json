@@ -1,0 +1,240 @@
+{
+  "main": {
+    "id": "e71190ca9fb6f5e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "3aa2f0643a82bce4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5323a636f83678ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "fed9fd3705ca6266",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Labs Checklist.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Labs Checklist"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b69c5ee62444686",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d320315a62ede0e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57e4ed6103a5960f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bc746a0e46a6fee9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90d57efdf0b30dcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dcaf07535ba35ea4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1e266393c283cb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8c4a11c3b120d5a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "31f7af5741b7cf87",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "119ad1deff41ecf2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "cd549420ccb15f33",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "69556026091c6fd6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5323a636f83678ff",
+  "lastOpenFiles": [
+    "README(2).md",
+    "README.md",
+    "Labs/Day 2 - Navigation.md",
+    "Labs/Day 6 - Interview-ready Jargon.md",
+    "Learning/3 - Ticket Types.md",
+    "Images/Pasted image 20261002115506.png",
+    "Learning Checklist.md",
+    "Labs Checklist.md",
+    "Labs/Day 5 - Admin Basics.md",
+    "Images/Pasted image 20261011151034.png",
+    "Images/Pasted image 20261011151020.png",
+    "Images/Pasted image 20261011150906.png",
+    "Images/Pasted image 20261011150637.png",
+    "Images/Pasted image 20261011150215.png",
+    "Labs/Day 4 - Core Concepts.md",
+    "Images/Pasted image 20261011145644.png",
+    "Images/Pasted image 20261011145510.png",
+    "Images/Pasted image 20261011145427.png",
+    "Images/Pasted image 20261011145158.png",
+    "Learning/4 - Priorities.md",
+    "Learning/5 - SLA.md",
+    "Learning/6 - Lifecycle.md",
+    "Labs/Day 1 - Getting Familiar.md",
+    "Labs/Day 3 - Working Tickets.md",
+    "Labs/Day 1-2 - Setup.md",
+    "Learning/2 - ITSM.md",
+    "Images",
+    "Learning/7 - Metrics.md",
+    "Labs",
+    "Learning/1 - Introduction.md",
+    "Learning",
+    "Untitled 1.md",
+    "Ticket Types",
+    "Introduction",
+    "Ticket Types"
+  ]
+}

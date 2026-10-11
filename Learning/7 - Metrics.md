@@ -1,0 +1,10 @@
+- **FCR:** First Contact Resolution. Issues fixed on first contact, with no follow-up.
+- **SLA:** Service Level Agreement. Agreed response and resolution targets.
+- **OLA / UC:** internal team agreement / vendor contract that supports the SLA.
+- **MTTR:** Mean Time To Resolve (sometimes Repair or Recover). Average time to fix. The "R" varies, so check which one a company means.
+- **MTTA:** Mean Time To Acknowledge. Average time before someone picks a ticket up.
+- **CSAT:** Customer Satisfaction score, usually from a short survey after a ticket closes.
+- **NPS:** Net Promoter Score. How likely users are to recommend the service.
+- **Reopen rate:** percentage of resolved tickets that come back. Lower is better.
+- **Ticket backlog / aging:** open tickets and how long they've been waiting.
+- **Breach:** missing an SLA target. **Warning/at risk** is when it's close.
